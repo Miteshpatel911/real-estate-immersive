@@ -21,7 +21,7 @@ const testimonials = [
     id: 3,
     name: 'Sarah Johnson',
     title: 'CEO, Prime Properties',
-    quote: 'Implementing these immersive solutions has transformed our sales process. We've seen a 25% reduction in the sales cycle and significantly higher customer satisfaction.',
+    quote: "Implementing these immersive solutions has transformed our sales process. We've seen a 25% reduction in the sales cycle and significantly higher customer satisfaction.",
     rating: 4,
   },
 ];
