@@ -40,7 +40,7 @@ const Hero = () => {
       <div className="container mx-auto px-6 pt-20 pb-16 relative z-10">
         <div className="max-w-4xl mx-auto text-center">
           <div className="space-y-8">
-            <span className="heading-highlight">Immersive Solutions for Real Estate</span>
+            <span className="heading-highlight text-lg bg-gradient-to-r from-blue-400 to-purple-500 py-2 px-5 rounded-full font-medium tracking-wider shadow-lg">Immersive Solutions for Real Estate</span>
             
             <h1 
               ref={titleRef}
